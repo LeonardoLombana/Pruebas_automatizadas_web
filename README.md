@@ -24,7 +24,8 @@ Ejercicio 1
 > [!TIP]
 > Estos son los requisitos para poder ejecutar las pruebas automatizadas
 
-# Diseño de pruebas para la funcion "Crear un kit".
+# Diseño de pruebas para la funcion "Solicitar un servicio".
+- Tener instalado un navegador web chrome, mozilla o safari.
 - Conecta tu GitHub
 - Clona el repositorio en tu computadora
 - Trabaja con el proyecto de forma local
